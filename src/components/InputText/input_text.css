@@ -1,0 +1,12 @@
+.text_input{
+    display: flex;
+    flex-direction: column;
+}
+.default_label{
+    margin-left: 10px;
+}
+.default_input{
+    padding: 1em;
+    border-radius: 10px;
+    width: 40em;
+}
